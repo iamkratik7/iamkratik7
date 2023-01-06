@@ -1,4 +1,4 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/504/783/704/linux-mint-linux-hd-wallpaper-preview.jpg)]
+[![MasterHead](https://c4.wallpaperflare.com/wallpaper/404/553/199/material-design-green-minimal-minimalist-wallpaper-preview.jpg)]
 # 💫 About Me:
 🌤️ I'm a Software Engineer who is passionate about creating <br>      responsive and fast web applications<br>      that positively affect the world.<br><br>🔭 I’m currently working on Javascript<br>🤝 I’m looking for FrontEnd Developer Roles<br>🌱 I’m currently improving my Web Development Skills<br>
 
